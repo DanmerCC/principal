@@ -1,0 +1,3 @@
+[submodule "Pruebas"]
+	path = app/Modules/Pruebas
+	url = https://github.com/DanmerCC/pruebasubmodulo.git
